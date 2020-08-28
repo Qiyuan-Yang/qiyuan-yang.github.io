@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### 个人信息
 
-You can use the [editor on GitHub](https://github.com/Qiyuan-Yang/qiyuan_yang.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 姓名    杨启元
+#### 性别    男
+#### 出生年月(YYYY/MM)    1998/05
+#### 手机    18811589800
+#### 邮箱    yangqiyuan1998@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 本科
+2017/09 - 2021/06        北京师范大学 数学科学学院        数学与应用数学(励耘)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 等级考试
 
-- Bulleted
-- List
+#### 大学英语四级    480
+#### 大学英语六级    457
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 职业技能
 
-[Link](url) and ![Image](src)
-```
+#### 程序开发
+熟练使用C,C++,python等主流编程语言,能够快速学习并掌握新的编程语言
+具有一定算法分析,性能分析的能力
+一定程度上掌握并行计算,数值方法等计算能力
+具有基于git的版本控制和团队合作经验
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 数据分析
+熟练使用Excel,SPSS,SQL,python等数据分析工具和语言
+对数据收集-清洗-分析的流程富有实践经验
+熟练使用数据可视化的各种工具和方法
 
-### Jekyll Themes
+### 其他
+具有较强的自我驱动力
+具有12年以上游戏经验,擅长竞技类,高难度,核心向游戏;taptap记录手游时间3000+h,Steam记录游戏时间1000+h
+富有社区精神,经常在游戏社区发布精品攻略及mod,累计点击量20k+,下载量2k+
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qiyuan-Yang/qiyuan_yang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### github仓库简介
